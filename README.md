@@ -1,4 +1,4 @@
-# Mafia Game Manager Android
+ Mafia Game Manager Android
 
 A single-device Android manager for an offline Mafia game.
 
